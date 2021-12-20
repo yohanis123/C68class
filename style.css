@@ -1,0 +1,21 @@
+#video{
+    height: 1000px;
+    width: 1540px;
+  }
+  .movie_head
+  
+  {
+    font: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+  }
+  .movie_head i
+  {
+    float: right ;
+  }
+  
+  .achievement_text span
+  {
+    color: orange;
+  }
